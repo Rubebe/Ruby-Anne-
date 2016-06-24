@@ -31,3 +31,9 @@
 	-GitHub facilitates social coding by providing a Web interface to the Git code repository and management tools 
 	for collaboration.
 
+6. Definition of Terms
+
+ 	Repository- is a central place in which an aggregation of data is kept and maintained in an organized way, usually
+		 in computer storage.
+	Commit - is the final step in the successful completion of a previously started database change as part of handling
+		 a transaction in a computing system.
