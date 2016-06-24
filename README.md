@@ -1,5 +1,4 @@
-# Ruby-Anne-
-IT421B-IT-Elective-3 
+# IT421B-IT-Elective-3 
 
 1. What is Version Control Application VCA?
 	-Version control is a system that records changes to a file or set of 
@@ -31,3 +30,4 @@ IT421B-IT-Elective-3
 5. What is Github?
 	-GitHub facilitates social coding by providing a Web interface to the Git code repository and management tools 
 	for collaboration.
+
